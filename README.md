@@ -7,7 +7,7 @@
 </center>
 
 # 一、总览
-**四班复读机**是一个基于qqbot的QQ群机器人。英文名Repeatress代表了这是一个复读姬。
+**四班复读机**是一个基于qqbot的QQ群机器人。英文名Repeatress说明这是一个复读姬。
 
 qqbot开源项目地址:https://github.com/pandolia/qqbot
 
